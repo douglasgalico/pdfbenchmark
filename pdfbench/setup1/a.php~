@@ -101,7 +101,7 @@ $pdf->IncludeJS($js);
 // ---------------------------------------------------------
 
 //Close and output PDF document
-$pdf->Output('example_053.pdf', 'F');
+$pdf->Output(__DIR__ .'example_053.pdf', 'F');
 
 //============================================================+
 // END OF FILE
