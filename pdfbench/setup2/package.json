@@ -1,0 +1,14 @@
+{
+  "name": "pdfbenchmark-setup2",
+  "version": "1.0.0",
+  "description": "Pdf Benchmark setup with Node and PDFKit",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pdfkit": "^0.7.1"
+  }
+}
